@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @carywoods
-- 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ...tensorflow and streamlit
-- 💞️ I’m looking to collaborate on ...medical and genetic data analysis
-- 📫 How to reach me ...cary@indybiosystems.com
-
-<!---
-carywoods/carywoods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Dr. Cary Woods (@carywoods).
+- 🧠 I work at the intersection of machine learning, genomics, and applied AI systems.
+- 🔬 I focus on medical and genetic data analysis, public data research, and building scalable data products.
+- ⚙️ I’m currently building AI-driven automation tools and analysis pipelines.
+- 🤝 I’m open to collaborating on medical, genetic, and public data initiatives.
+- 📫 You can reach me at cary@indybiosystems.com.
