@@ -1,8 +1,8 @@
 # Dr. Cary Woods
 
-Founder and solo R&D operator building AI systems where technology meets public purpose. I design and ship multi-agent infrastructure, portable knowledge applications, and applied research tools, and I run several interconnected ventures: HarnessAI, CommPilot, IndyBioSystems, and Envoi Publishing.
+Founder and R&D operator building AI systems where technology meets public purpose. I design and ship multi-agent infrastructure, portable knowledge applications, and applied research tools, and I run several interconnected ventures: HarnessAI, CommPilot, IndyBioSystems, and Envoi Publishing.
 
-Co-owner of Xylogenics, a yeast-genomics company holding four patents. Director of the Woods Foundation, a public-policy and applied-research platform focused on education, democracy, housing, health, and social justice.
+Co-founder of Xylogenics, a yeast-genomics company holding four patents. Director of the Woods Foundation, a public-policy and applied-research platform focused on education, democracy, housing, health, and social justice.
 
 **Currently building**
 - HarnessAI — a multi-agent AI staff fleet (orchestration, RAG, autonomous task pipelines) running across a Proxmox home lab and an OVH Coolify cluster
@@ -15,6 +15,6 @@ Co-owner of Xylogenics, a yeast-genomics company holding four patents. Director 
 - Publishing *Breaking Barriers* (750+ articles) and books including *The Machinery of Democracy*
 - Expanding college access through Woods Foundation and OnRamp
 
-I'm interested in collaborations involving applied AI, biotechnology, public-interest technology, and data-intensive research, especially work that requires systems to actually hold up under governance and audit, not just demo well.
+I'm interested in collaborations involving applied AI, biotechnology, public-interest technology, and data-intensive research, especially work that requires systems to actually hold up under governance and audit.
 
 **Contact:** [cary@indybiosystems.com](mailto:cary@indybiosystems.com)
