@@ -1,18 +1,20 @@
 # Dr. Cary Woods
 
-I am a scientist, inventor, teacher, publisher, and company builder working where technology meets public purpose.
+Founder and solo R&D operator building AI systems where technology meets public purpose. I design and ship multi-agent infrastructure, portable knowledge applications, and applied research tools, and I run several interconnected ventures: HarnessAI, CommPilot, IndyBioSystems, and Envoi Publishing.
 
-My work spans applied artificial intelligence, genomics, public policy, entrepreneurship, and civic systems. I co-founded Xylogenics, a yeast-genomics company built on patented biotechnology, and founded Woods Foundation, a public-policy and applied-research platform focused on education, democracy, housing, health, technology, and social justice.
+Co-owner of Xylogenics, a yeast-genomics company holding four patents. Director of the Woods Foundation, a public-policy and applied-research platform focused on education, democracy, housing, health, and social justice.
 
-Current work includes:
+**Currently building**
+- HarnessAI — a multi-agent AI staff fleet (orchestration, RAG, autonomous task pipelines) running across a Proxmox home lab and an OVH Coolify cluster
+- CommPilot — a single-tenant, privacy-first AI knowledge assistant deployed in K-12 districts
+- PSN — an API serving simulation, regulatory, and registry data products
+- *What Still Works in America* — a data-driven journalism series with its own ETL pipeline and interactive dashboards
 
-- Building practical AI systems, portable knowledge appliances, and automation tools
-- Researching public data, emerging technology, and institutional performance
-- Teaching business ethics, public policy, entrepreneurship, and computer science
-- Expanding college access and HBCU discovery through Woods Foundation
-- Publishing *Breaking Barriers* and the *What Still Works in America* series
-- Developing small, durable technology businesses through Envoi Group
+**Also**
+- Teaching business ethics, public policy, entrepreneurship, and computer science (20+ years)
+- Publishing *Breaking Barriers* (750+ articles) and books including *The Machinery of Democracy*
+- Expanding college access through Woods Foundation and OnRamp
 
-I am especially interested in collaborations involving applied AI, biotechnology, public-interest technology, data-intensive research, and systems that help institutions serve people better.
+I'm interested in collaborations involving applied AI, biotechnology, public-interest technology, and data-intensive research, especially work that requires systems to actually hold up under governance and audit, not just demo well.
 
 **Contact:** [cary@indybiosystems.com](mailto:cary@indybiosystems.com)
